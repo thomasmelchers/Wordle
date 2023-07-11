@@ -1,6 +1,6 @@
 # Wordle
 
-![Wordle](/assets/screenshot.png)
+![Wordle](src/asset/screenshot.png)
 
 ## Description
 
